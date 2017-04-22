@@ -40,18 +40,17 @@ anyline.ocr = {
     },
 
     licenseKey: "" +
-        "eyJzY29wZSI6WyJCQVJDT0RFIiwiTVJaIiwiRU5FUkdZIiwiQU5ZTElORV9PQ1IiLCJET0NVTUVOVCIs" +
-        "IkFMTCJdLCJwbGF0Zm9ybSI6WyJpT1MiLCJBbmRyb2lkIiwiV2luZG93cyJdLCJ2YWxpZCI6IjIwMTct" +
-        "MDMtMTUiLCJtYWpvclZlcnNpb24iOiIzIiwiaXNDb21tZXJjaWFsIjpmYWxzZSwidG9sZXJhbmNlRGF5" +
-        "cyI6NjAsImlvc0lkZW50aWZpZXIiOlsiaW8uYW55bGluZS5leGFtcGxlcy5jb3Jkb3ZhIl0sImFuZHJv" +
-        "aWRJZGVudGlmaWVyIjpbImlvLmFueWxpbmUuZXhhbXBsZXMuY29yZG92YSJdLCJ3aW5kb3dzSWRlbnRp" +
-        "ZmllciI6WyJpby5hbnlsaW5lLmV4YW1wbGVzLmNvcmRvdmEiXX0KVThWSHd6U295d3RGZ0oxL1pOY011" +
-        "ZnBZT0F6eXRoVzA5ZUhIRDEzZ0RwSTUzUXhuMk52bExyWnllZEsvd2t1UUU0My9MUUMreUVSVlZHS2g1" +
-        "N29IVlhuOVdqODE2cDQxYnh0cWx0ODk3WGkzcjhxVUdQekhaNzNnYWlsUEtPYmM5TlYyY0x1ZjVNK01m" +
-        "RTQ2ZFJoeGlSUDZPcnk2dXB3U0laS1VEVDBDTjBMQWZxcXd2dW5IOFpIdk5HZE4vSmdlbFRkVlNSckNJ" +
-        "bHVPaXliVC82N1ZRMVQ4QzVaWWs1VUdSdEFydW0yRmpGQWdiN1BPbnZ6bmhYeTl3NTVrcC9MUFpDM21E" +
-        "OTVCdVNCUFZOSFZNdi9taHFlbUlTcGhTVjBpL0hWU3ZtYlp4VnY4ZVRJT29pM2YwNUJIREcrYWoyaDJJ" +
-        "aUJBN1VaK0RZSVZrWjhpYXF2Wk5BPT0=",
+        "eyJzY29wZSI6WyJBTEwiXSwicGxhdGZvcm0iOlsiaU9TIiwiQW5kcm9pZCIsIldpbmRvd3" +
+        "MiXSwidmFsaWQiOiIyMDE3LTA1LTIyIiwibWFqb3JWZXJzaW9uIjoiMyIsImlzQ29tbWVy" +
+        "Y2lhbCI6ZmFsc2UsInRvbGVyYW5jZURheXMiOjYwLCJpb3NJZGVudGlmaWVyIjpbImFuZH" +
+        "JvaWQiXSwiYW5kcm9pZElkZW50aWZpZXIiOlsiYW5kcm9pZCJdLCJ3aW5kb3dzSWRlbnRp" +
+        "ZmllciI6WyJhbmRyb2lkIl19CnJGVjVPbGN3TmFoeTh4NnJtVVVSbDUxKzRiSENsRnpnS3" +
+        "FPcmVOa3NnVC84VmlzR29xa3czbi90NTFMdEVyam03ZDlpTDZTREdjQ3FPRVlEQ3RBeHov" +
+        "RnpsUkJUQXBHZEgzWHllTTRGaS9WajQ2S3lUQjR2eStkWGY5R2tRbmU3K3BYTWdvc0tYcG" +
+        "5IQXl5U0ZqMzRLY0FCaW9mbEFvUVVydEY0cWJUcDJLY1ErQ0JtYWhKTVJLd0tDYlcvbTNE" +
+        "NkFPL1BSY2wvTi96amFZdjFyeHNYMDJUdE9kcmNKSzRSdVhPOUw3R0Q0YmJRQ3ZWTGxWeW" +
+        "lzQzBYZ1hHdTNwaTI2eDlmaXh3b244YVVINTNoNEtVUWRHWDBKUmtWZVZTSWtmR1ZNejYv" +
+        "VGRIa1BtcTBodSs3aUt6ODliYlZVZWlqRFBJT0ljRkt3TE5QOVlMSk1VQ2FWUT09",
 
     ibanViewConfig: {
         "captureResolution":"1080",
